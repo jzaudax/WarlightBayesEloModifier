@@ -1,3 +1,3 @@
-java -jar BayesEloModifier.jar
+java -jar ../lib/BayesEloModifier.jar
 
 pause
