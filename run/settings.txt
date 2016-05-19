@@ -1,0 +1,6 @@
+inputfile:http://data.warlight.net/Data/BayeseloLog0.txt
+outputfile:ModifiedBayeseloLog0.txt
+mode:fast
+removegame:Master Jz::Krzychu
+togglewin:Master Jz::MIFRAN
+addgame:Master Jz::Pushover::loss
